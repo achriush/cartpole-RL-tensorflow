@@ -1,4 +1,3 @@
-""" Trains an agent with (stochastic) Policy Gradients on CartPole-v1. Uses OpenAI Gym. """
 import os
 import sys
 import gym
